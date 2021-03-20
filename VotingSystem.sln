@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystem", "VotingSystem\VotingSystem.csproj", "{BC934B93-4E7E-4385-9DE6-A793FBED38A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystemServer", "VotingSystemServer\VotingSystemServer.csproj", "{038ADC99-E8FF-400D-AE0C-D7CBE33B3DE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC934B93-4E7E-4385-9DE6-A793FBED38A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC934B93-4E7E-4385-9DE6-A793FBED38A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC934B93-4E7E-4385-9DE6-A793FBED38A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC934B93-4E7E-4385-9DE6-A793FBED38A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038ADC99-E8FF-400D-AE0C-D7CBE33B3DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038ADC99-E8FF-400D-AE0C-D7CBE33B3DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038ADC99-E8FF-400D-AE0C-D7CBE33B3DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038ADC99-E8FF-400D-AE0C-D7CBE33B3DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99C1FCA-A914-4B27-9AFF-19F4A8C49F32}
+	EndGlobalSection
+EndGlobal
